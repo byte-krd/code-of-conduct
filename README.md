@@ -1,30 +1,34 @@
 
 # Byte Code of Conduct
 
-All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+Byte is dedicated to providing a positive event experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-### The Quick Version
+Examples of behavior that contributes to creating a positive environment include:
 
-Our meetup is a harassment-free place for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of meetup participants in any form. Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. meetup participants violating these rules may be sanctioned or expelled from the meetup ***without a refund*** at the discretion of the meetup organisers.
+ - Being kind to others
+ - Behaving professionally
+ - Using welcoming and inclusive language
+ - Being respectful of differing viewpoints and experiences
+ - Accepting constructive criticism graciously
+ 
+Examples of unacceptable behavior by participants include:
 
-### The Less Quick Version
+ - Sexual language and imagery in any event venue, including talks
+ - Violent threats or language directed against another person
+ - Deliberate intimidation, stalking, or following
+ - Insults or put-downs, or bullying
+ - Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+ - Unwelcome sexual attention or advances
+ - Unwelcome physical contact
+ - Sustained disruption of talks or other activities
+ 
+Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+If a participant engages in behavior that violates this Code of Conduct, the meetup organizers will take appropriate action. This may include:
 
-Participants asked to stop any harassing behavior are expected to comply immediately.
-
-Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
-
-If a participant engages in harassing behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup with no refund.
-
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of meetup staff immediately.
-
-Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
-We expect participants to follow these rules at meetup and workshop venues and meetup-related social events.
-
-Based on [JSConf 2012 code of conduct](http://2012.jsconf.us/#/about) and [The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
-
-Licensed under a [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en_US).
+ - Verbal warning
+ - Removal from the event
+ - Disinvitation from future Byte events
 
 ### Credits
-This code of conduct is from https://github.com/web-standards-ru/code-of-conduct/blob/master/code-of-conduct-meetup.md
+This code of conduct is adapted from https://www.indiehackers.com/code-of-conduct
