@@ -21,6 +21,7 @@ Examples of unacceptable behavior by participants include:
  - Unwelcome sexual attention or advances
  - Unwelcome physical contact
  - Sustained disruption of talks or other activities
+ - Sharing explicit content in any form (links, images, gif...etc)
  
 Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
